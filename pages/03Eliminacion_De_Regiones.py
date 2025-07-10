@@ -21,7 +21,7 @@ Supongamos que tenemos una función continua \( f(x) \) en un intervalo \( (a, b
 
 st.markdown(texto_justificado, unsafe_allow_html=True)
 
-col1, col2, col3 = st.columns([1, 2, 1])  # El centro es col2
+col1, col2, col3 = st.columns([1, 2, 1])  
 
 with col2:
     image = Image.open("Curva.png")
