@@ -4,7 +4,6 @@ import math
 import streamlit as st
 import time
 
-# Funciones objetivo
 def funcion_00(x: float) -> float:
     return x**2 + 3
 
