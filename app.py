@@ -38,7 +38,7 @@ gradiente = st.Page("pages/17Metodos_Gradiente.py", title="Métodos basados en g
 cauchy = st.Page("pages/18Cauchy.py", title="Método de Cauchy", icon=":material/manage_search:")
 newton = st.Page("pages/19Metodo_Newton.py", title="Método de Newton", icon=":material/manage_search:")
 
-# Navegación
+
 pg = st.navigation(
     {
         "OPTIMIZACIÓN": [teoria],
